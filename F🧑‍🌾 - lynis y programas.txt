@@ -1,0 +1,4 @@
+
+programas: 
+- VMware Workstation 17 Player
+- KeePassXC
