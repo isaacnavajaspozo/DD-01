@@ -2,4 +2,3 @@
 programas: 
 - VMware Workstation 17 Player
 - KeePassXC
-- Visual Studio Code
