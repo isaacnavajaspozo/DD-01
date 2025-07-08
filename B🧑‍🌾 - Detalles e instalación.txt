@@ -1,1 +1,1 @@
-
+# instalo debian mediante la interfazce gráfica o con un Debian Quickstart
