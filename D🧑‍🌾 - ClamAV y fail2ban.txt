@@ -24,7 +24,6 @@ sudo clamscan --remove -r /ruta/al/directorio -l /ruta/al/archivo.txt
 # actualizar base de datos 
 sudo freshclam
 
-
 ## 🔢 anacron
 # anacron es ideal para sistemas que no están siempre encendidos (como un pc personal). Ejecuta tareas periódicas aunque el equipo esté apagado en el momento programado.
 # lo que puedo hacer es un anacron y para automatizar el antivirus
