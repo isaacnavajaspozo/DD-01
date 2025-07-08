@@ -4,9 +4,9 @@
 apt update && apt upgrade
 # para hacer la instalación inicial ejecuto el script que tengo 
 cd /
-wget -O https://raw.githubusercontent.com/isaacnavajaspozo/script-00/refs/heads/main/script-00.sh script-00.sh
+wget -qO script-00.sh \https://raw.githubusercontent.com/isaacnavajaspozo/script-00/refs/heads/main/script-00.sh
 chmod 755 script-00.sh
 ./script-00.sh
 
 ## instalaciones
-sudo apt install anacron -y
+
