@@ -1,4 +1,4 @@
-# descargo la ISO -> https://www.debian.org/CD/netinst/
+# descargo la ISO netinst de Debian -> https://www.debian.org/CD/netinst/
 # instalo debian mediante la interfazce gráfica o con un Debian Quickstart
 
 ## instalación inicial
