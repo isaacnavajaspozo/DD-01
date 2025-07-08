@@ -1,3 +1,4 @@
+===[clamav]=============================================================================================================
 ## 👹 ClamAV
 # instalación antivirus Linux:
 apt install clamav
@@ -50,3 +51,4 @@ vim /etc/anacrontab
 # con 365 10 backup.deletefiles nice tar -czf /var/clamav/deletefiles_$(date +\%Y-\%m-\%d).tar.gz -C /var/clamav deletefiles.txt && > /var/clamav/deletefiles.txt, una vez al año cojo el archivo deletefiles.txt, lo comprimo en con la fecha actual y creo un nuevo archivo vacío deletefiles.txt.
 
 
+===[fail2ban]=============================================================================================================
